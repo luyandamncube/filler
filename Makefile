@@ -107,7 +107,7 @@ play:
 	@echo "\033[1;31;40m[HARD]\t\033[0m 5\t" $(SUPERJEANNOT)
 	@echo "\nUSAGE: \033[1;36;40mmake v00\033[0m will play champely.filler on map00"
 	@echo "USAGE: \033[1;36;40mmake v32\033[0m will play abanlin.filler on map02"
-	norm: 
+norm: 
 	@echo Norming includes folder...
 	norminette $(HDIR)
 	@echo Norming sources...
