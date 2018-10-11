@@ -6,7 +6,7 @@
 
 ![final mark](resources/filler-finalmark.png)
 
-filler Project
+Algorithms I Project
 
 This project is about creating a game AI that, battles with another user-defined AI for the purpose of conquering the game board. 
 
